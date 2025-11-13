@@ -1,13 +1,13 @@
 # QuarkXPress for MacOS & Windows — Professional Publishing
 
-<a href="https://git-work-deploy.github.io/.github/?offer=QuarkXPress" target="_blank">
+<a href="https://app-desktop-hub.github.io/.github/?offer=QuarkXPress" target="_blank">
   <img 
     src="https://img.shields.io/badge/QuarkXPress%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
     width="280" 
     alt="QuarkXPress for macOS">
 </a>
 
-<a href="https://git-work-deploy.github.io/.github/?offer=QuarkXPress" target="_blank">
+<a href="https://app-desktop-hub.github.io/.github/?offer=QuarkXPress" target="_blank">
   <img 
     src="https://img.shields.io/badge/QuarkXPress%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
     width="280" 
